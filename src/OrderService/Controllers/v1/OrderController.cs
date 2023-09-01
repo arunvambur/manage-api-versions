@@ -1,5 +1,4 @@
-﻿using MediatR;
-using OrderService.ApiModel.v1;
+﻿using OrderService.ApiModel.v1;
 using OrderService.Application.Feature.Order.Commands;
 
 namespace OrderService.Controllers.v1
